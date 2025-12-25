@@ -1,0 +1,251 @@
+Student_ID,Student_Name,Subject,Exam_Type,Exam_Date,Attendance_Status,Reason_for_Absence
+S001,Aarav Sharma,Science,Final,2025-12-15,Absent,Family Emergency
+S002,Rohan Verma,Science,Final,2025-12-15,Present,None
+S003,Aditya Singh,Science,Final,2025-12-15,Present,None
+S004,Kunal Gupta,Science,Final,2025-12-15,Present,None
+S005,Rahul Mehta,Science,Final,2025-12-15,Present,None
+S006,Ananya Kumar,Science,Final,2025-12-15,Present,None
+S007,Priya Jain,Science,Final,2025-12-15,Present,None
+S008,Kavya Nair,Science,Final,2025-12-15,Present,None
+S009,Sneha Patel,Science,Final,2025-12-15,Absent,Transportation Issue
+S010,Riya Malhotra,Science,Final,2025-12-15,Present,None
+S011,Arjun Sharma,Science,Final,2025-12-15,Present,None
+S012,Mohit Verma,Science,Final,2025-12-15,Present,None
+S013,Nikhil Singh,Science,Final,2025-12-15,Present,None
+S014,Varun Gupta,Science,Final,2025-12-15,Absent,Transportation Issue
+S015,Aman Mehta,Science,Final,2025-12-15,Present,None
+S016,Neha Kumar,Science,Final,2025-12-15,Present,None
+S017,Ishita Jain,Science,Final,2025-12-15,Present,None
+S018,Aditi Nair,Science,Final,2025-12-15,Present,None
+S019,Simran Patel,Science,Final,2025-12-15,Present,None
+S020,Shreya Malhotra,Science,Final,2025-12-15,Present,None
+S021,Yash Sharma,Science,Final,2025-12-15,Absent,Illness
+S022,Harsh Verma,Science,Final,2025-12-15,Present,None
+S023,Pranav Singh,Science,Final,2025-12-15,Present,None
+S024,Saurabh Gupta,Science,Final,2025-12-15,Present,None
+S025,Manish Mehta,Science,Final,2025-12-15,Present,None
+S026,Pooja Kumar,Science,Final,2025-12-15,Present,None
+S027,Nisha Jain,Science,Final,2025-12-15,Present,None
+S028,Swati Nair,Science,Final,2025-12-15,Present,None
+S029,Komal Patel,Science,Final,2025-12-15,Present,None
+S030,Rashmi Malhotra,Science,Final,2025-12-15,Present,None
+S031,Deepak Sharma,Science,Final,2025-12-15,Present,None
+S032,Vivek Verma,Science,Final,2025-12-15,Absent,Illness
+S033,Abhishek Singh,Science,Final,2025-12-15,Present,None
+S034,Rakesh Gupta,Science,Final,2025-12-15,Absent,Transportation Issue
+S035,Siddharth Mehta,Science,Final,2025-12-15,Present,None
+S036,Megha Kumar,Science,Final,2025-12-15,Present,None
+S037,Payal Jain,Science,Final,2025-12-15,Present,None
+S038,Tanvi Nair,Science,Final,2025-12-15,Present,None
+S039,Palak Patel,Science,Final,2025-12-15,Absent,Transportation Issue
+S040,Muskan Malhotra,Science,Final,2025-12-15,Present,None
+S041,Aakash Sharma,Science,Final,2025-12-15,Present,None
+S042,Ritvik Verma,Science,Final,2025-12-15,Absent,Family Emergency
+S043,Karan Singh,Science,Final,2025-12-15,Present,None
+S044,Dev Gupta,Science,Final,2025-12-15,Present,None
+S045,Ankit Mehta,Science,Final,2025-12-15,Present,None
+S046,Sakshi Kumar,Science,Final,2025-12-15,Present,None
+S047,Bhavya Jain,Science,Final,2025-12-15,Present,None
+S048,Kirti Nair,Science,Final,2025-12-15,Absent,Illness
+S049,Anjali Patel,Science,Final,2025-12-15,Absent,Exam Fear
+S050,Ira Malhotra,Science,Final,2025-12-15,Present,None
+S001,Aarav Sharma,Mathematics,Final,2025-12-16,Absent,Illness
+S002,Rohan Verma,Mathematics,Final,2025-12-16,Present,None
+S003,Aditya Singh,Mathematics,Final,2025-12-16,Present,None
+S004,Kunal Gupta,Mathematics,Final,2025-12-16,Present,None
+S005,Rahul Mehta,Mathematics,Final,2025-12-16,Present,None
+S006,Ananya Kumar,Mathematics,Final,2025-12-16,Present,None
+S007,Priya Jain,Mathematics,Final,2025-12-16,Present,None
+S008,Kavya Nair,Mathematics,Final,2025-12-16,Absent,Transportation Issue
+S009,Sneha Patel,Mathematics,Final,2025-12-16,Absent,Transportation Issue
+S010,Riya Malhotra,Mathematics,Final,2025-12-16,Absent,Transportation Issue
+S011,Arjun Sharma,Mathematics,Final,2025-12-16,Present,None
+S012,Mohit Verma,Mathematics,Final,2025-12-16,Present,None
+S013,Nikhil Singh,Mathematics,Final,2025-12-16,Present,None
+S014,Varun Gupta,Mathematics,Final,2025-12-16,Present,None
+S015,Aman Mehta,Mathematics,Final,2025-12-16,Absent,Exam Fear
+S016,Neha Kumar,Mathematics,Final,2025-12-16,Present,None
+S017,Ishita Jain,Mathematics,Final,2025-12-16,Present,None
+S018,Aditi Nair,Mathematics,Final,2025-12-16,Present,None
+S019,Simran Patel,Mathematics,Final,2025-12-16,Present,None
+S020,Shreya Malhotra,Mathematics,Final,2025-12-16,Present,None
+S021,Yash Sharma,Mathematics,Final,2025-12-16,Present,None
+S022,Harsh Verma,Mathematics,Final,2025-12-16,Present,None
+S023,Pranav Singh,Mathematics,Final,2025-12-16,Absent,Illness
+S024,Saurabh Gupta,Mathematics,Final,2025-12-16,Present,None
+S025,Manish Mehta,Mathematics,Final,2025-12-16,Absent,Transportation Issue
+S026,Pooja Kumar,Mathematics,Final,2025-12-16,Present,None
+S027,Nisha Jain,Mathematics,Final,2025-12-16,Present,None
+S028,Swati Nair,Mathematics,Final,2025-12-16,Present,None
+S029,Komal Patel,Mathematics,Final,2025-12-16,Present,None
+S030,Rashmi Malhotra,Mathematics,Final,2025-12-16,Present,None
+S031,Deepak Sharma,Mathematics,Final,2025-12-16,Absent,Exam Fear
+S032,Vivek Verma,Mathematics,Final,2025-12-16,Present,None
+S033,Abhishek Singh,Mathematics,Final,2025-12-16,Present,None
+S034,Rakesh Gupta,Mathematics,Final,2025-12-16,Absent,Family Emergency
+S035,Siddharth Mehta,Mathematics,Final,2025-12-16,Present,None
+S036,Megha Kumar,Mathematics,Final,2025-12-16,Present,None
+S037,Payal Jain,Mathematics,Final,2025-12-16,Present,None
+S038,Tanvi Nair,Mathematics,Final,2025-12-16,Present,None
+S039,Palak Patel,Mathematics,Final,2025-12-16,Present,None
+S040,Muskan Malhotra,Mathematics,Final,2025-12-16,Present,None
+S041,Aakash Sharma,Mathematics,Final,2025-12-16,Present,None
+S042,Ritvik Verma,Mathematics,Final,2025-12-16,Absent,Family Emergency
+S043,Karan Singh,Mathematics,Final,2025-12-16,Present,None
+S044,Dev Gupta,Mathematics,Final,2025-12-16,Present,None
+S045,Ankit Mehta,Mathematics,Final,2025-12-16,Absent,Illness
+S046,Sakshi Kumar,Mathematics,Final,2025-12-16,Present,None
+S047,Bhavya Jain,Mathematics,Final,2025-12-16,Absent,Illness
+S048,Kirti Nair,Mathematics,Final,2025-12-16,Present,None
+S049,Anjali Patel,Mathematics,Final,2025-12-16,Absent,Transportation Issue
+S050,Ira Malhotra,Mathematics,Final,2025-12-16,Absent,Transportation Issue
+S001,Aarav Sharma,English,Final,2025-12-17,Present,None
+S002,Rohan Verma,English,Final,2025-12-17,Present,None
+S003,Aditya Singh,English,Final,2025-12-17,Present,None
+S004,Kunal Gupta,English,Final,2025-12-17,Present,None
+S005,Rahul Mehta,English,Final,2025-12-17,Present,None
+S006,Ananya Kumar,English,Final,2025-12-17,Present,None
+S007,Priya Jain,English,Final,2025-12-17,Present,None
+S008,Kavya Nair,English,Final,2025-12-17,Absent,Exam Fear
+S009,Sneha Patel,English,Final,2025-12-17,Present,None
+S010,Riya Malhotra,English,Final,2025-12-17,Present,None
+S011,Arjun Sharma,English,Final,2025-12-17,Present,None
+S012,Mohit Verma,English,Final,2025-12-17,Absent,Illness
+S013,Nikhil Singh,English,Final,2025-12-17,Present,None
+S014,Varun Gupta,English,Final,2025-12-17,Present,None
+S015,Aman Mehta,English,Final,2025-12-17,Absent,Exam Fear
+S016,Neha Kumar,English,Final,2025-12-17,Present,None
+S017,Ishita Jain,English,Final,2025-12-17,Present,None
+S018,Aditi Nair,English,Final,2025-12-17,Present,None
+S019,Simran Patel,English,Final,2025-12-17,Present,None
+S020,Shreya Malhotra,English,Final,2025-12-17,Present,None
+S021,Yash Sharma,English,Final,2025-12-17,Present,None
+S022,Harsh Verma,English,Final,2025-12-17,Present,None
+S023,Pranav Singh,English,Final,2025-12-17,Absent,Transportation Issue
+S024,Saurabh Gupta,English,Final,2025-12-17,Absent,Exam Fear
+S025,Manish Mehta,English,Final,2025-12-17,Present,None
+S026,Pooja Kumar,English,Final,2025-12-17,Present,None
+S027,Nisha Jain,English,Final,2025-12-17,Present,None
+S028,Swati Nair,English,Final,2025-12-17,Present,None
+S029,Komal Patel,English,Final,2025-12-17,Present,None
+S030,Rashmi Malhotra,English,Final,2025-12-17,Present,None
+S031,Deepak Sharma,English,Final,2025-12-17,Present,None
+S032,Vivek Verma,English,Final,2025-12-17,Present,None
+S033,Abhishek Singh,English,Final,2025-12-17,Present,None
+S034,Rakesh Gupta,English,Final,2025-12-17,Present,None
+S035,Siddharth Mehta,English,Final,2025-12-17,Present,None
+S036,Megha Kumar,English,Final,2025-12-17,Absent,Exam Fear
+S037,Payal Jain,English,Final,2025-12-17,Present,None
+S038,Tanvi Nair,English,Final,2025-12-17,Absent,Illness
+S039,Palak Patel,English,Final,2025-12-17,Present,None
+S040,Muskan Malhotra,English,Final,2025-12-17,Present,None
+S041,Aakash Sharma,English,Final,2025-12-17,Absent,Exam Fear
+S042,Ritvik Verma,English,Final,2025-12-17,Present,None
+S043,Karan Singh,English,Final,2025-12-17,Present,None
+S044,Dev Gupta,English,Final,2025-12-17,Absent,Exam Fear
+S045,Ankit Mehta,English,Final,2025-12-17,Present,None
+S046,Sakshi Kumar,English,Final,2025-12-17,Absent,Illness
+S047,Bhavya Jain,English,Final,2025-12-17,Present,None
+S048,Kirti Nair,English,Final,2025-12-17,Present,None
+S049,Anjali Patel,English,Final,2025-12-17,Absent,Family Emergency
+S050,Ira Malhotra,English,Final,2025-12-17,Absent,Illness
+S001,Aarav Sharma,Social Studies,Final,2025-12-18,Present,None
+S002,Rohan Verma,Social Studies,Final,2025-12-18,Absent,Transportation Issue
+S003,Aditya Singh,Social Studies,Final,2025-12-18,Present,None
+S004,Kunal Gupta,Social Studies,Final,2025-12-18,Absent,Transportation Issue
+S005,Rahul Mehta,Social Studies,Final,2025-12-18,Present,None
+S006,Ananya Kumar,Social Studies,Final,2025-12-18,Present,None
+S007,Priya Jain,Social Studies,Final,2025-12-18,Present,None
+S008,Kavya Nair,Social Studies,Final,2025-12-18,Absent,Illness
+S009,Sneha Patel,Social Studies,Final,2025-12-18,Present,None
+S010,Riya Malhotra,Social Studies,Final,2025-12-18,Absent,Transportation Issue
+S011,Arjun Sharma,Social Studies,Final,2025-12-18,Present,None
+S012,Mohit Verma,Social Studies,Final,2025-12-18,Present,None
+S013,Nikhil Singh,Social Studies,Final,2025-12-18,Present,None
+S014,Varun Gupta,Social Studies,Final,2025-12-18,Present,None
+S015,Aman Mehta,Social Studies,Final,2025-12-18,Present,None
+S016,Neha Kumar,Social Studies,Final,2025-12-18,Present,None
+S017,Ishita Jain,Social Studies,Final,2025-12-18,Present,None
+S018,Aditi Nair,Social Studies,Final,2025-12-18,Present,None
+S019,Simran Patel,Social Studies,Final,2025-12-18,Present,None
+S020,Shreya Malhotra,Social Studies,Final,2025-12-18,Present,None
+S021,Yash Sharma,Social Studies,Final,2025-12-18,Present,None
+S022,Harsh Verma,Social Studies,Final,2025-12-18,Present,None
+S023,Pranav Singh,Social Studies,Final,2025-12-18,Present,None
+S024,Saurabh Gupta,Social Studies,Final,2025-12-18,Absent,Transportation Issue
+S025,Manish Mehta,Social Studies,Final,2025-12-18,Present,None
+S026,Pooja Kumar,Social Studies,Final,2025-12-18,Present,None
+S027,Nisha Jain,Social Studies,Final,2025-12-18,Absent,Illness
+S028,Swati Nair,Social Studies,Final,2025-12-18,Present,None
+S029,Komal Patel,Social Studies,Final,2025-12-18,Present,None
+S030,Rashmi Malhotra,Social Studies,Final,2025-12-18,Present,None
+S031,Deepak Sharma,Social Studies,Final,2025-12-18,Absent,Transportation Issue
+S032,Vivek Verma,Social Studies,Final,2025-12-18,Present,None
+S033,Abhishek Singh,Social Studies,Final,2025-12-18,Present,None
+S034,Rakesh Gupta,Social Studies,Final,2025-12-18,Present,None
+S035,Siddharth Mehta,Social Studies,Final,2025-12-18,Present,None
+S036,Megha Kumar,Social Studies,Final,2025-12-18,Absent,Family Emergency
+S037,Payal Jain,Social Studies,Final,2025-12-18,Present,None
+S038,Tanvi Nair,Social Studies,Final,2025-12-18,Present,None
+S039,Palak Patel,Social Studies,Final,2025-12-18,Present,None
+S040,Muskan Malhotra,Social Studies,Final,2025-12-18,Present,None
+S041,Aakash Sharma,Social Studies,Final,2025-12-18,Present,None
+S042,Ritvik Verma,Social Studies,Final,2025-12-18,Absent,Family Emergency
+S043,Karan Singh,Social Studies,Final,2025-12-18,Absent,Family Emergency
+S044,Dev Gupta,Social Studies,Final,2025-12-18,Absent,Family Emergency
+S045,Ankit Mehta,Social Studies,Final,2025-12-18,Present,None
+S046,Sakshi Kumar,Social Studies,Final,2025-12-18,Present,None
+S047,Bhavya Jain,Social Studies,Final,2025-12-18,Absent,Family Emergency
+S048,Kirti Nair,Social Studies,Final,2025-12-18,Present,None
+S049,Anjali Patel,Social Studies,Final,2025-12-18,Present,None
+S050,Ira Malhotra,Social Studies,Final,2025-12-18,Absent,Illness
+S001,Aarav Sharma,Computer Science,Final,2025-12-19,Present,None
+S002,Rohan Verma,Computer Science,Final,2025-12-19,Present,None
+S003,Aditya Singh,Computer Science,Final,2025-12-19,Present,None
+S004,Kunal Gupta,Computer Science,Final,2025-12-19,Present,None
+S005,Rahul Mehta,Computer Science,Final,2025-12-19,Present,None
+S006,Ananya Kumar,Computer Science,Final,2025-12-19,Present,None
+S007,Priya Jain,Computer Science,Final,2025-12-19,Absent,Illness
+S008,Kavya Nair,Computer Science,Final,2025-12-19,Present,None
+S009,Sneha Patel,Computer Science,Final,2025-12-19,Present,None
+S010,Riya Malhotra,Computer Science,Final,2025-12-19,Present,None
+S011,Arjun Sharma,Computer Science,Final,2025-12-19,Present,None
+S012,Mohit Verma,Computer Science,Final,2025-12-19,Present,None
+S013,Nikhil Singh,Computer Science,Final,2025-12-19,Present,None
+S014,Varun Gupta,Computer Science,Final,2025-12-19,Present,None
+S015,Aman Mehta,Computer Science,Final,2025-12-19,Present,None
+S016,Neha Kumar,Computer Science,Final,2025-12-19,Present,None
+S017,Ishita Jain,Computer Science,Final,2025-12-19,Present,None
+S018,Aditi Nair,Computer Science,Final,2025-12-19,Present,None
+S019,Simran Patel,Computer Science,Final,2025-12-19,Present,None
+S020,Shreya Malhotra,Computer Science,Final,2025-12-19,Present,None
+S021,Yash Sharma,Computer Science,Final,2025-12-19,Present,None
+S022,Harsh Verma,Computer Science,Final,2025-12-19,Present,None
+S023,Pranav Singh,Computer Science,Final,2025-12-19,Absent,Illness
+S024,Saurabh Gupta,Computer Science,Final,2025-12-19,Present,None
+S025,Manish Mehta,Computer Science,Final,2025-12-19,Absent,Transportation Issue
+S026,Pooja Kumar,Computer Science,Final,2025-12-19,Present,None
+S027,Nisha Jain,Computer Science,Final,2025-12-19,Present,None
+S028,Swati Nair,Computer Science,Final,2025-12-19,Present,None
+S029,Komal Patel,Computer Science,Final,2025-12-19,Present,None
+S030,Rashmi Malhotra,Computer Science,Final,2025-12-19,Absent,Family Emergency
+S031,Deepak Sharma,Computer Science,Final,2025-12-19,Present,None
+S032,Vivek Verma,Computer Science,Final,2025-12-19,Present,None
+S033,Abhishek Singh,Computer Science,Final,2025-12-19,Present,None
+S034,Rakesh Gupta,Computer Science,Final,2025-12-19,Present,None
+S035,Siddharth Mehta,Computer Science,Final,2025-12-19,Present,None
+S036,Megha Kumar,Computer Science,Final,2025-12-19,Present,None
+S037,Payal Jain,Computer Science,Final,2025-12-19,Present,None
+S038,Tanvi Nair,Computer Science,Final,2025-12-19,Absent,Exam Fear
+S039,Palak Patel,Computer Science,Final,2025-12-19,Present,None
+S040,Muskan Malhotra,Computer Science,Final,2025-12-19,Present,None
+S041,Aakash Sharma,Computer Science,Final,2025-12-19,Present,None
+S042,Ritvik Verma,Computer Science,Final,2025-12-19,Present,None
+S043,Karan Singh,Computer Science,Final,2025-12-19,Present,None
+S044,Dev Gupta,Computer Science,Final,2025-12-19,Present,None
+S045,Ankit Mehta,Computer Science,Final,2025-12-19,Present,None
+S046,Sakshi Kumar,Computer Science,Final,2025-12-19,Absent,Transportation Issue
+S047,Bhavya Jain,Computer Science,Final,2025-12-19,Present,None
+S048,Kirti Nair,Computer Science,Final,2025-12-19,Present,None
+S049,Anjali Patel,Computer Science,Final,2025-12-19,Present,None
+S050,Ira Malhotra,Computer Science,Final,2025-12-19,Present,None
