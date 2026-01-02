@@ -1,52 +1,106 @@
-# School-Exam-Attendance-Analysis:
+# 📊 School Exam Attendance Analysis  
+**Minor 1 Project – Pandas**
 
-## Overview :
-This project analyzes school exam attendance data using Python to identify attendance patterns and absentee trends across multiple subjects and exam days.
-The project was developed using Google Colab as part of a Minor Academic Project and is maintained on GitHub for documentation and version control.
+## 📌 Project Overview
+This project analyzes **school exam attendance data** using **Python and Pandas**.  
+The objective is to identify **attendance and absentee patterns** across different subjects and exam days.  
+The analysis is enhanced with **data visualizations** and an **interactive Gradio-based UI**.
 
-### Objectives:
-Analyze student attendance across multiple exam days
-Compare present and absent counts
-Perform subject-wise absentee analysis
-Visualize attendance data using charts and heatmaps
-Generate a concise summary report
+---
 
-#### Dataset Information:
-Number of Students: 50
-Number of Subjects: 5
-Exam Duration: 5 Days
-File Format: CSV
+## 🎯 Objectives
+- Analyze exam-wise attendance records
+- Identify absentee patterns across subjects
+- Compare present vs absent students
+- Visualize attendance trends using charts and heatmaps
+- Generate a summary report for academic insights
 
-##### Fields Included:
-Student ID
-Subject
-Exam Date
-Attendance Status (Present / Absent)
+---
 
-###### Tools & Technologies
-Python
-Google Colab
-Pandas – Data analysis and manipulation
-Matplotlib – Data visualization
-Seaborn – Heatmaps and advanced charts
-NumPy – Numerical computations
+## 🗂 Dataset Description
+- **Total Students:** 50  
+- **Total Subjects:** 5  
+- **Total Exam Days:** 5  
+- **Exam Type:** Final  
+- **Each day:** One subject exam conducted for the same 50 students  
 
-####### Features:
-Attendance count analysis
-Subject-wise absentee percentage
-Graphical representation of attendance data
-Heatmap visualization for absentee patterns
-Automatically generated summary report
+### Subjects Included:
+- Science  
+- Mathematics  
+- English  
+- Social Studies  
+- Computer Science  
 
-######## Visual Analysis:
+### Key Columns:
+- Student_ID  
+- Student_Name  
+- Subject  
+- Exam_Type  
+- Exam_Date  
+- Attendance_Status (Present / Absent)  
+- Reason_for_Absence  
 
-The project includes:
-Bar charts for attendance comparison
-Pie charts for overall attendance distribution
-Heatmaps to highlight subjects with higher absentee rates
-These visualizations improve data interpretation and insight generation.
+---
 
-Key Observations:
-Absenteeism varies across subjects
-Certain subjects show relatively higher absentee percentages
-Heatmaps provide a clear overview of attendance trends
+## 🛠 Technologies Used
+- **Python**
+- **Pandas** – Data analysis
+- **Matplotlib** – Charts & graphs
+- **Seaborn** – Heatmaps & advanced visualization
+- **Gradio** – Interactive UI dashboard
+- **Google Colab** – Development environment
+
+---
+
+## 📈 Analysis Performed
+- Subject-wise attendance comparison
+- Day-wise attendance trends
+- Absentee percentage calculation
+- Identification of high-absence subjects
+- Visual analysis using:
+  - Bar charts
+  - Line charts
+  - Pie charts
+  - Heatmaps
+
+---
+
+## 🎨 Interactive Dashboard (Gradio UI)
+An interactive **Gradio-based dashboard** is created where users can:
+- Upload the attendance CSV file
+- View subject-wise attendance graphs
+- Analyze day-wise trends
+- Visualize absentee heatmaps
+- Generate an automated summary report
+
+---
+
+## 📝 Summary Report
+The project automatically generates a textual summary including:
+- Total students, subjects, and exam days
+- Overall attendance distribution
+- Observations on absentee patterns
+- Insights related to exam stress and subject difficulty
+
+---
+
+## ▶️ How to Run the Project
+1. Open **Google Colab**
+2. Upload the dataset CSV file
+3. Run the notebook cells step-by-step
+4. Launch the Gradio interface
+5. Explore interactive visualizations
+
+---
+
+## 📌 Conclusion
+This project demonstrates how **Pandas and data visualization tools** can be used to analyze academic attendance data effectively.  
+The insights obtained from this analysis can help schools identify problem areas and take corrective actions to reduce absenteeism.
+
+---
+
+## ⭐ Acknowledgements
+- College Faculty & Mentors  
+- Open-source Python community  
+- Pandas, Matplotlib, Seaborn, and Gradio libraries
+
